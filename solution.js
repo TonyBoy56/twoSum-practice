@@ -9,7 +9,8 @@ You can return the answer in any order.
 // Implementation //
 
 const nums = [2, 7, 11, 15];
-const target = 9;
+// change 'target' value from '9'
+const target = 26;
 
 const twoSum = (nums, target) => {
     for (let i = 0; i < nums.length; i++) {
