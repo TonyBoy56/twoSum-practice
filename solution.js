@@ -12,5 +12,7 @@ const nums = [];
 const target = 9;
 
 const twoSum = (nums, target) => {
-    
+    for (let i=0; i < nums.length; j++) {
+
+    }   
 }
