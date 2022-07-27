@@ -20,3 +20,5 @@ const twoSum = (nums, target) => {
         }
     }   
 }
+
+twoSum(nums, target);
