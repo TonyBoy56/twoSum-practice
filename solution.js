@@ -11,3 +11,6 @@ You can return the answer in any order.
 const nums = [];
 const target = 9;
 
+const twoSum = () => {
+    
+}
