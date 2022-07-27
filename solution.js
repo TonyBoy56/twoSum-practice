@@ -8,7 +8,7 @@ You can return the answer in any order.
 
 // Implementation //
 
-const nums = [];
+const nums = [2, 7, 11, 15];
 const target = 9;
 
 const twoSum = (nums, target) => {
