@@ -12,6 +12,7 @@ const nums = [2, 7, 11, 15];
 // change 'target' value from '9'
 const target = 26;
 
+// evaluate values of 'i' and 'j' against 'target'
 const twoSum = (nums, target) => {
     for (let i = 0; i < nums.length; i++) {
         for (let j = i+1; j < nums.length; j++) {
@@ -22,4 +23,5 @@ const twoSum = (nums, target) => {
     }   
 }
 
+// Call the function
 twoSum(nums, target);
