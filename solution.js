@@ -9,3 +9,5 @@ You can return the answer in any order.
 // Implementation //
 
 const nums = [];
+const target = 9;
+
